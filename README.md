@@ -10,3 +10,5 @@ Running the Game
 ================
 
 1. [Download this repository](https://github.com/daniilio/Dr.Mario---MIPS-Assembly/archive/refs/heads/main.zip)
+2. [Download Saturn](https://github.com/1whatleytay/saturn/releases)
+3. Click Build '↓'
