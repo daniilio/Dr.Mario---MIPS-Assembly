@@ -6,7 +6,7 @@ Gameplay
 
 **Objective**
 - The goal is to eleminate all viruses on the screen.
-- The microscope in the bottom-right shows which colours of viruses remain.
+- The microscope in the bottom-right shows which colors of viruses remain.
 
 **Core Mechanics**
 1. Capsules fall from the top of the screen.
