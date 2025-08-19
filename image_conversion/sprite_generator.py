@@ -1,3 +1,15 @@
+"""
+@file sprite_generator.py
+@brief Converts an input image into MIPS assembly code that draws the image pixel by pixel.
+       The script resizes the image to 256x256, extracts pixel RGB values, and outputs
+       assembly instructions to write them into memory at 0x10008000.
+
+@author Daniil Trukhin (daniilvtrukhin@gmail.com)
+
+@date
+2025-04-05
+"""
+
 from PIL import Image
 
 
