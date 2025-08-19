@@ -7,11 +7,12 @@ Gameplay
 **Objective**
 - The goal is to eleminate all viruses on the screen.
 - The microscope in the bottom-right shows which colors of viruses remain.
+- The game gradually speeds up, so be sure to clear the viruses quickly!
 
 **Core Mechanics**
 1. Capsules fall from the top of the screen.
 2. Control the capsule using the keyboard: move left with `A`, right with `D`, drop faster with `S`, rotate with `W`, and save the capsule with `Z`.
-3. To eleminate viruses, you need 4 or more segments of the same color in a line.
+3. To eleminate viruses or capsules, you need 4 or more segments of the same color in a line.
 4. Other keyboard controls: quit with `q`, pause with `p`, and restart with `r`.
 
 ![Game Screenshot](gameplay.jpg)
