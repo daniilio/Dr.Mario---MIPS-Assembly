@@ -5,3 +5,8 @@ Gameplay
 ========
 
 hi there
+
+Running the Game
+================
+
+1. [Download this repository](https://github.com/daniilio/Dr.Mario---MIPS-Assembly/archive/refs/heads/main.zip)
